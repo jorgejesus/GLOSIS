@@ -1,0 +1,2 @@
+# GLOSIS
+LinkedData in GLOSIS
